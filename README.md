@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dylhan Aros</h1>
-<h3 align="center">"Passionate about hands-on learning, I trust in overcoming any challenge through perseverance and effort. I thrive on collaborative teamwork and aim to continuously develop myself to become a better professional. My approach revolves around learning by doing, firmly believing that any obstacle can be surpassed with dedication and hard work.</h3>
+<h3 align="center">Passionate about hands-on learning, I trust in overcoming any challenge through perseverance and effort. I thrive on collaborative teamwork and aim to continuously develop myself to become a better professional. My approach revolves around learning by doing, firmly believing that any obstacle can be surpassed with dedication and hard work.</h3>
 
 - 📫 How to reach me **dylhan.carcamo.99@gmail.com**
 
